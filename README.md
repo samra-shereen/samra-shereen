@@ -1,6 +1,6 @@
 ## Hey! I'm Samra✨
 
-* 🚀 Code Adventurer | Computer Science Newbie at the University of Calgary
+* 🚀 Code Adventurer | Studying Computer Science Newbie at the University of Calgary
 * 🤖 AI Enthusiast Exploring the Magical World of Automation
 * 📚 Superhero Tutor Empowering Minds in Math, Science, and English
 * 💖 Transforming Lines of Code into Innovative Solutions
