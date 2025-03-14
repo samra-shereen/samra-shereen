@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hey! I'm Samra✨
 
-<!--
-**samra-shereen/samra-shereen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🚀 Code Adventurer | Computer Science Newbie at the University of Calgary
+* 🤖 AI Enthusiast Exploring the Magical World of Automation
+* 📚 Superhero Tutor Empowering Minds in Math, Science, and English
+* 💖 Transforming Lines of Code into Innovative Solutions
 
-Here are some ideas to get you started:
+### Secret Superpower 🍳🔮
+When debugging challenges arise, I channel my inner culinary strategist! 
+Algorithmic roadblock? A dash of creativity in the kitchen sparks unexpected breakthroughs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Debugging + Cooking = My Innovation Playground** 🧑‍💻🥘
+
+
