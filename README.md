@@ -1,8 +1,8 @@
 ## Hey! I'm Samra✨
 
-* 🚀 Code Adventurer | Studying Computer Science Newbie at the University of Calgary
-* 🤖 AI Enthusiast Exploring the Magical World of Automation
-* 📚 Superhero Tutor Empowering Minds in Math, Science, and English
+* 🚀 3rd year Computer Science student at the University of Calgary
+* 🤖 Data Science Trailblazer, Crafting Insights from Raw Data to Shape the Future
+* 📚 Part-time Tutor Empowering Minds in Math, Science, and English
 * 💖 Transforming Lines of Code into Innovative Solutions
 
 ### Secret Superpower 🍳🔮
